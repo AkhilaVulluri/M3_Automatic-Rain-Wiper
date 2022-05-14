@@ -82,4 +82,7 @@ Further modifications in the circuit will lead to controlling the speed of the w
 | LLR_1 	| Switch on   	| value 1      	|  On         	|  On       	| Rquirement   	|
 | LLR_2 	| Switch Off  	| value 0      	|  Off        	|  Off    	  | Requirement  	|
 
+## Behavior Diagram
+
+![3-Figure6-1](https://user-images.githubusercontent.com/101192229/168404975-b819f734-efdf-450f-81da-06058ca7f5d4.png)
 
