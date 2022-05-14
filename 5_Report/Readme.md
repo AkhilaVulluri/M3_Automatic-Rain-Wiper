@@ -86,3 +86,14 @@ Further modifications in the circuit will lead to controlling the speed of the w
 
 ![3-Figure6-1](https://user-images.githubusercontent.com/101192229/168404975-b819f734-efdf-450f-81da-06058ca7f5d4.png)
 
+## Block Diagram
+
+![1-Figure1-1](https://user-images.githubusercontent.com/101192229/168405037-25b3a4d1-c37c-4018-a1e8-62227fddb26e.png)
+
+## Simulation
+
+![sim](https://user-images.githubusercontent.com/101192229/168405098-985679eb-b827-4991-a67a-ff63c76197b7.PNG)
+
+## Structural Diagram
+
+![images (1)](https://user-images.githubusercontent.com/101192229/168405157-23063272-ae2f-4773-84f0-2da05d08a9f5.jpg)
