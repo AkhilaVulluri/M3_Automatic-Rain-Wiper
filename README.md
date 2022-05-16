@@ -4,6 +4,7 @@
 ## Folder Structure
 | Folder | Description |
 |---|---|
+| `0_Abstrat` |Explain the project in brief with the project title|
 | `1_Requirements` | Documents detailing requirements and research |
 | `2_Design` | Documents specifying design |
 | `3_Implementation` | All codes and Documentation |
